@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Marshal (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Marshal (~> 1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Marshal: a3c5c5dbd388112edf3cdabb718f2b4cfe48658a
+
+PODFILE CHECKSUM: 678bdfabb91ca8890022026d41d43eb6f67b66f0
+
+COCOAPODS: 1.1.1
